@@ -1,2 +1,2 @@
 # EMPLOYEE SURVEY REPORT
-!{}(Employee_survey.png)
+![](Employee_survey.png)
